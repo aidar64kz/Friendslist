@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mickey';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mickey'), url('MICKEY.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Mickey';
+ font-weight: 300;
+    color: #20b2aa;
+}
